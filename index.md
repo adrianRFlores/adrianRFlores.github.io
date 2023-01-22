@@ -1,5 +1,5 @@
 bandit1: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL <br>
-bandit2; rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi <br>
+bandit2: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi <br>
 bandit3: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG <br>
 bandit4: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe <br>
 bandit5: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR <br>
